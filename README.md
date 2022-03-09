@@ -1,3 +1,3 @@
 # First Project ( Tkinter )
-The Forget and Delete sections will be written in the file . 
+The Forgot Password and Delete Account sections will be written in the file 
 ( Have the best )
